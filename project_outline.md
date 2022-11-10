@@ -16,7 +16,7 @@ Which features are the most impactful for predicting the outcome? How does addin
 Use the pybaseball python module which pulls data from baseballsavant.com
 
 ## Rough Breakdown of Tasks
-* Acquiring data/preprocessing
-* Writing initial code to implement the models
-* Testing different inputs and recording the results
-* Write up analysis/compose final notebook
+* Acquiring data/preprocessing: Ben
+* Writing initial code to implement the models: Cuong
+* Testing different inputs and recording the results: Kenny
+* Write up analysis/compose final notebook: Lydia
