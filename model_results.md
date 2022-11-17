@@ -104,6 +104,8 @@ Classification Report:
 weighted avg       0.35      0.57      0.44        40
 ```
 
+![an image showing the baseline evaluation metrics](./images/baseline_evaluation_metrics.png)
+
 ---
 
 
@@ -214,6 +216,8 @@ Classification Report:
 weighted avg       0.49      0.57      0.47        40
 ```
 
+![an image showing the no home/away evaluation metrics](./images/no_homeaway_evaluation_metrics.png)
+
 ---
 
 ## No Day/Night Feature
@@ -318,7 +322,7 @@ Classification Report:
    macro avg       0.64      0.54      0.48        40
 weighted avg       0.64      0.62      0.54        40
 ```
-
+![an image showing the no day/night evaluation metrics](./images/no_daynight_evaluation_metrics.png)
 
 ---
 
@@ -423,3 +427,8 @@ Classification Report:
    macro avg       0.34      0.41      0.36        40
 weighted avg       0.38      0.47      0.41        40
 ```
+![an image showing the no rank evaluation metrics](./images/no_rank_evaluation_metrics.png)
+
+
+### Only Randomized Models
+![an image showing the tts evaluation metrics](./images/tts_evaluation_metrics.png)
